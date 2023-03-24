@@ -1,0 +1,313 @@
+/*
+ Theme Name:     Lightning Logistics
+ Theme URI:      http://webnus2.net/florida-wp/
+ Description:    Child theme for Lightning Logistics. Uses Florida parent theme
+ Author:         Coobo Media
+ Author URI:     http://coobomedia.com
+ Template:       florida-wp
+ Version:        1.0.0
+*/
+
+
+@import url("../florida-wp/style.css");
+
+.g-recaptcha {
+margin-bottom: 10px;
+width: 100% !important;
+display:block;
+margin: auto;
+}
+.g-recaptcha iframe {
+    max-width: 100%;
+    transform:scale(0.77);
+    -webkit-transform:scale(0.77);
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+   max-width: none;
+  }
+.g-recaptcha > div {
+margin: auto !important;
+}
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+body {
+	border-top: 8px solid #0053a3;
+}
+
+
+.top-links h6:first-child {
+	display: none;
+}
+
+
+
+.is-sticky .logo {
+	padding-top: 15px;
+
+}
+
+.is-sticky #header.super-fixed .logo img {
+	max-height: 130px;
+}
+
+
+@media only screen and (max-width: 767px) {
+	#header.super-fixed .nav-wrap1 {
+		margin-top: 10px;
+	}
+}
+
+
+
+
+.top-bar .container-inner {
+	float: right;
+
+}
+
+@media only screen and (min-width: 768px) {
+	#header.super-fixed {
+		height: 130px;
+	}
+
+	#header.super-fixed .logo {
+		padding: 18px 0;
+	}
+
+	#header.super-fixed #nav > li > a {
+		padding: 0 12px;
+		line-height: 130px;
+	}
+}
+
+
+/*
+
+
+*/
+
+
+.center-title .wpb_wrapper {
+	text-align: center;
+}
+
+.bg-cover {
+	background-size: cover !important;
+}
+
+.hide-headings h1, .hide-headings h2, .hide-headings h3, .hide-headings h4, .hide-headings h5, .hide-headings h6, 
+.hide-headings .icon-top-title hr, .hide-headings .icon-top-title hr + hr{
+	display: none;
+}
+
+
+
+
+#headline, #headline2 {
+	height: 45px;
+	padding: 10px 0 10px;
+}
+
+#headline {
+	background: url(images/map.jpg) no-repeat center center;
+	background-size: cover;
+
+	border-bottom: 1px solid #ccc;
+	border-bottom: 1px solid rgba(200, 200, 200, 0.75);
+}
+
+
+
+
+/*Orange items*/
+#footer .tagcloud a:hover, .sendbtn, .button, input[type="button"] {
+	background-color: #f1af46 !important;
+}
+
+.blog-post a:hover, .blog-author span, .blog-line p a:hover {
+	color: #f1af46;
+}
+
+/*Blue itesm*/
+#side-nav li.current a, #side-nav li.current a:after {
+	color: #0053a3;
+}
+
+.acc-trigger a:hover, .acc-trigger.active a, .acc-trigger.active a:hover {
+	color: #0053a3;
+}
+
+#headline h3 {
+	font-size: 40px;
+	font-weight: bold;
+	color: #0053a3;
+}
+
+
+
+/*Testimonials*/
+
+.testimonial-content {
+
+	background: #F8F8F8 url('images/quote-open.png') no-repeat 5px 5px;
+	padding-top: 50px;
+}
+
+.testimonial-content p:before {
+	content: '\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0';
+}
+
+/*Home Page*/
+.home-slider {
+	margin-bottom: 0px;
+}
+
+/*Style js widgets for commodity prices*/
+#tab-1395795908971-2-1 table {
+	float: left;
+	margin-right: 21px;
+}
+
+/*Testimonials widget*/
+.randomTestimonialWidget .widgettitle {
+	display: none;
+}
+
+.randomTestimonialWidget blockquote{
+	padding-right: 36px;
+	background: #eee;
+	
+}
+
+.randomTestimonialWidget blockquote p {
+	
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	line-height: 1.75em;
+}
+
+
+.randomTestimonialWidget .testimonial_author {
+	text-align: right;
+}
+
+blockquote cite {
+	font-size: 14px;
+
+}
+
+
+
+/*Responsive Tweaks*/
+@media only screen and (max-width: 767px) {
+	.our-clients-wrap {
+		  padding-top: 0px; 
+	}
+
+	.home .vc_row-fluid [class*="vc_span"] {
+		margin-bottom: 0px !important;
+	}
+}
+
+.container [class*="col-"] img {
+	height: auto;
+}
+
+/*Links*/
+
+a, a:visited { color:#0050a5; }
+a:hover      { color:#f1af46; } a:active  { color:#f1af46; }
+
+
+::selection {
+background: 
+#f1af46;
+color: 
+#fff;
+}
+
+
+.wpb_accordion .wpb_accordion_wrapper .ui-state-active a, .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a:hover {
+color: #0053a3 !important;
+}
+
+/* Vision | Mission | Values - found on about page */
+
+.page-id-198 .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a {
+padding: 010px 14px 10px 38px;
+} 
+
+.page-id-198 h4.subtitle {
+margin: 0px 0 21px 0;
+}
+
+.page-id-198 .blox {
+padding-top: 0px;
+margin-bottom: 35px
+}
+
+
+/*icon bucket*/
+.icon-box6 p {
+text-align:left;
+}
+/*icon bucket link hover  turned off because entire bucket isn't linkable anymore
+
+.bucket_hov:hover p, .bucket_hov:hover h4 {
+color:#0050a5;
+}
+.icon-box6:hover {
+background-color: #e5e5e5;;
+}
+*/
+
+/* oil icon - not in use*/
+.oil_icon {
+width: 24px;
+height: 25px;
+background-image: url("/wp-content/uploads/2014/04/oil_icon.png") !important;
+background-repeat: no-repeat !important;
+background-position: center 14px !important;
+}
+
+/* oil icon: method 2 - currently in use */
+
+.custom_icon .icon-box6 img {
+font-size: 24px;
+background: #0053a3;
+color: #fff;
+position: absolute;
+top: -30px;
+left: 50%;
+margin-left: -27px;
+border-radius: 30px;
+cursor: default;
+}
+
+.gravity-bg {
+border-style: solid;
+background-color: #d4dce5;
+border-width: 2px;
+border-color: 
+#e6e5e5;
+}
+
+/* home callout */
+
+.home-callout h2 {
+font-size: 2.75em;
+line-height: 40px;
+margin-bottom:10px;
+}
+
+.home-callout h2, .home-callout p {
+color:#fff;
+}
+
+#footer .footer-navi > a {
+margin: 0px !important;
+color: #9B9B9B !important;
+text-decoration: underline !important;
+}

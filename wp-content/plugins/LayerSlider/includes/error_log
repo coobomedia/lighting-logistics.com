@@ -1,0 +1,46 @@
+[07-May-2014 19:38:22 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[07-May-2014 19:38:23 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[15-May-2014 02:30:34 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[15-May-2014 03:46:22 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[29-Sep-2014 03:22:34 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[29-Sep-2014 04:38:22 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[28-Nov-2014 21:46:51 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[28-Nov-2014 21:50:28 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[02-Sep-2015 04:49:32 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[02-Sep-2015 11:08:16 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[28-Feb-2016 19:47:19 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[28-Feb-2016 19:48:09 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[15-Sep-2016 12:37:35 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[15-Sep-2016 12:37:38 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[24-Jan-2017 04:13:07 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[24-Jan-2017 04:13:11 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[16-Apr-2017 22:29:11 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[17-Apr-2017 22:29:04 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[21-Apr-2017 17:13:39 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[21-Apr-2017 17:28:17 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[04-Jun-2017 22:14:42 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[04-Jun-2017 22:36:27 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[18-Jun-2017 23:44:41 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[19-Jun-2017 00:06:38 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[13-Oct-2017 17:21:50 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[13-Oct-2017 22:09:50 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[27-Nov-2017 15:14:28 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[27-Nov-2017 17:46:02 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[01-Mar-2018 12:28:16 UTC] PHP Fatal error:  Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[01-Mar-2018 12:49:18 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[03-Dec-2019 05:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4
+[04-Dec-2019 08:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[20-Dec-2019 04:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function layerslider_check_unit() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_html.php on line 10
+[20-Dec-2019 05:34:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_enqueue_script() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/includes/slider_markup_init.php on line 4

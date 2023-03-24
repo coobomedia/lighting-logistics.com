@@ -1,0 +1,180 @@
+[07-May-2014 19:34:46 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[07-May-2014 19:34:48 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[07-May-2014 19:34:48 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[07-May-2014 19:34:50 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[07-May-2014 19:36:52 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[07-May-2014 19:37:38 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[07-May-2014 19:38:16 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[07-May-2014 19:38:20 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[13-May-2014 05:21:06 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[13-May-2014 06:36:53 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[13-May-2014 07:52:41 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[13-May-2014 09:08:34 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[14-May-2014 07:33:46 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[14-May-2014 10:05:18 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[14-May-2014 17:40:03 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[14-May-2014 22:43:12 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[17-Nov-2014 12:39:23 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[17-Nov-2014 12:39:33 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[17-Nov-2014 12:39:45 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[17-Nov-2014 12:40:05 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[17-Nov-2014 12:40:23 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[17-Nov-2014 12:40:42 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[17-Nov-2014 12:41:01 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[17-Nov-2014 12:41:24 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[28-Aug-2015 12:29:59 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[28-Aug-2015 13:45:46 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[28-Aug-2015 15:01:33 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[28-Aug-2015 20:04:41 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[31-Aug-2015 23:33:39 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[01-Sep-2015 03:33:41 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[01-Sep-2015 16:11:31 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[02-Sep-2015 02:19:31 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[28-Feb-2016 19:28:17 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[28-Feb-2016 19:28:25 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[28-Feb-2016 19:28:49 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[28-Feb-2016 19:28:50 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[28-Feb-2016 19:28:59 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[28-Feb-2016 19:29:02 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[28-Feb-2016 19:29:07 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[28-Feb-2016 19:29:10 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[15-Sep-2016 12:36:31 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[15-Sep-2016 12:36:34 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[15-Sep-2016 12:36:36 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[15-Sep-2016 12:36:39 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[15-Sep-2016 12:37:12 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[15-Sep-2016 12:37:20 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[15-Sep-2016 12:37:21 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[15-Sep-2016 12:37:34 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[24-Jan-2017 04:10:35 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[24-Jan-2017 04:10:39 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[24-Jan-2017 04:10:43 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[24-Jan-2017 04:10:48 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[24-Jan-2017 04:11:57 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[24-Jan-2017 04:12:21 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[24-Jan-2017 04:12:26 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[24-Jan-2017 04:12:46 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[15-Apr-2017 21:13:30 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[15-Apr-2017 22:29:17 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[15-Apr-2017 23:45:04 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[16-Apr-2017 01:00:52 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[17-Apr-2017 04:48:06 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[17-Apr-2017 11:07:31 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[17-Apr-2017 12:22:48 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[17-Apr-2017 17:25:56 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[21-Apr-2017 12:13:28 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[21-Apr-2017 12:23:00 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[21-Apr-2017 12:30:38 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[21-Apr-2017 12:38:22 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[21-Apr-2017 15:02:19 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[21-Apr-2017 15:56:17 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[21-Apr-2017 16:03:54 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[21-Apr-2017 16:39:32 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[04-Jun-2017 08:12:55 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[04-Jun-2017 08:24:00 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[04-Jun-2017 08:35:16 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[04-Jun-2017 08:46:20 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[04-Jun-2017 18:42:53 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[04-Jun-2017 20:13:49 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[04-Jun-2017 20:24:28 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[04-Jun-2017 21:18:59 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[18-Jun-2017 15:52:43 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[18-Jun-2017 16:04:49 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[18-Jun-2017 16:17:07 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[18-Jun-2017 16:29:21 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[18-Jun-2017 20:13:13 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[18-Jun-2017 21:39:49 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[18-Jun-2017 21:52:09 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[18-Jun-2017 22:48:15 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[13-Sep-2017 21:58:49 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[13-Sep-2017 22:11:51 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[13-Sep-2017 22:40:58 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[14-Sep-2017 01:04:58 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[15-Sep-2017 13:15:13 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[15-Sep-2017 15:29:00 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[15-Sep-2017 17:52:58 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[15-Sep-2017 22:40:58 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[22-Oct-2017 01:36:25 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[24-Oct-2017 20:48:25 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[24-Oct-2017 23:12:25 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[25-Oct-2017 06:24:25 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[25-Nov-2017 16:30:28 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[25-Nov-2017 17:46:15 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[25-Nov-2017 19:02:02 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[25-Nov-2017 20:17:51 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[26-Nov-2017 19:01:55 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[26-Nov-2017 20:17:42 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[26-Nov-2017 21:33:29 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[27-Nov-2017 11:27:08 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[21-Feb-2018 00:19:54 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[21-Feb-2018 05:08:18 UTC] PHP Fatal error:  Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[23-Feb-2018 05:48:03 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[23-Feb-2018 10:36:03 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[01-Mar-2018 09:00:53 UTC] PHP Fatal error:  Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[01-Mar-2018 10:28:25 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[01-Mar-2018 10:48:35 UTC] PHP Fatal error:  Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[01-Mar-2018 11:47:38 UTC] PHP Fatal error:  Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[03-Dec-2019 05:34:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[03-Dec-2019 05:35:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[03-Dec-2019 05:35:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[03-Dec-2019 05:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[03-Dec-2019 05:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[03-Dec-2019 05:36:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[03-Dec-2019 05:36:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[03-Dec-2019 05:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6
+[17-Dec-2019 08:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/skin_editor.php on line 9
+[18-Dec-2019 12:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function lsSliderById() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit.php on line 9
+[18-Dec-2019 13:25:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_list.php on line 4
+[18-Dec-2019 14:53:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/style_editor.php on line 4
+[19-Dec-2019 19:00:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function find() on null in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_posts.php on line 28
+[19-Dec-2019 19:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/transition_builder.php on line 4
+[19-Dec-2019 19:46:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_sample.php on line 10
+[20-Dec-2019 01:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lightnin/public_html/wp-content/plugins/LayerSlider/views/slider_edit_settings.php on line 6

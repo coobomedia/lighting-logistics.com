@@ -1,0 +1,2972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Florida\n"
+"POT-Creation-Date: 2014-02-27 15:45+0330\n"
+"PO-Revision-Date: 2014-02-27 15:45+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: default\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:9
+msgid "404"
+msgstr ""
+
+#: ../404.php:10
+msgid "Page Not Found"
+msgstr ""
+
+#: ../archive.php:10 ../blog-default.php:10
+#, php-format
+msgid "<small>Daily Archives:</small> %s"
+msgstr ""
+
+#: ../archive.php:12 ../blog-default.php:12
+#, php-format
+msgid "<small>Monthly Archives:</small> %s"
+msgstr ""
+
+#: ../archive.php:14 ../blog-default.php:14
+#, php-format
+msgid "<small>Yearly Archives:</small> %s"
+msgstr ""
+
+#: ../archive.php:17 ../blog-default.php:17
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../archive.php:19
+#, php-format
+msgid "<small>Tag:</small> %s"
+msgstr ""
+
+#: ../blog-timeline.php:189 ../portfolio-timeline.php:46
+msgid "at"
+msgstr ""
+
+#: ../blog-timeline.php:209
+msgid "No Comments &#187;"
+msgstr ""
+
+#: ../blog-timeline.php:209
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: ../blog-timeline.php:209
+msgid "% Comments &#187;"
+msgstr ""
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:21
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../commentsfunc.php:9
+msgid "Says"
+msgstr ""
+
+#: ../commentsfunc.php:15
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../contact.php:49
+msgid "Contact Information:"
+msgstr ""
+
+#: ../contact.php:51 ../inc/nc-options/nc-options.php:271
+msgid "Address"
+msgstr ""
+
+#: ../contact.php:55 ../inc/nc-options/nc-options.php:276
+msgid "Phone"
+msgstr ""
+
+#: ../contact.php:60 ../contact.php:82
+msgid "Email"
+msgstr ""
+
+#: ../contact.php:78
+msgid "Whats your Name?"
+msgstr ""
+
+#: ../contact.php:80
+msgid "Whats your Email?"
+msgstr ""
+
+#: ../contact.php:84
+msgid "Subject ?"
+msgstr ""
+
+#: ../contact.php:86
+msgid "Message to us"
+msgstr ""
+
+#: ../contact.php:88
+msgid "Send Message"
+msgstr ""
+
+#: ../contact.php:107 ../inc/widgets/contactform.php:87
+msgid "Well done!"
+msgstr ""
+
+#: ../contact.php:107 ../inc/widgets/contactform.php:87
+msgid "Your message has been sent."
+msgstr ""
+
+#: ../contact.php:109 ../inc/widgets/contactform.php:89
+msgid "Well done! Your message has been sent"
+msgstr ""
+
+#: ../contact.php:113 ../inc/widgets/contactform.php:93
+msgid "Error!"
+msgstr ""
+
+#: ../contact.php:113 ../inc/widgets/contactform.php:93
+msgid "Somthing Wrong"
+msgstr ""
+
+#: ../functions.php:189 ../inc/nc-options/nc-options.php:506
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:190
+msgid "Footer Navigation Menu"
+msgstr ""
+
+#: ../functions.php:191
+msgid "Topbar Navigation"
+msgstr ""
+
+#: ../functions.php:192
+msgid "Left Navigation Page Template Menu"
+msgstr ""
+
+#: ../functions.php:568
+msgid "Webnus Theme Option"
+msgstr ""
+
+#: ../functions.php:569
+msgid "/wp-admin/themes.php?page=webnus_theme_options"
+msgstr ""
+
+#: ../functions.php:617
+msgid "Gallery Type"
+msgstr ""
+
+#: ../header-404.php:24 ../header-dark.php:35 ../header.php:35
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../portfolio-pin.php:41
+msgid "Posted by"
+msgstr ""
+
+#: ../portfolio-timeline.php:60 ../single.php:165
+#: ../inc/shortcodes/latestfromblog.php:48
+#: ../parts/blogloop-bothsidebar.php:159 ../parts/blogloop-type2.php:187
+#: ../parts/blogloop.php:165
+msgid "by"
+msgstr ""
+
+#: ../portfolio.php:34 ../inc/shortcodes/recent-works.php:32
+msgid "All"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "<small>Search Results for:</small> %s"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Enter Keywords..."
+msgstr ""
+
+#: ../single.php:165 ../inc/shortcodes/latestfromblog.php:48
+#: ../parts/blogloop-bothsidebar.php:160 ../parts/blogloop-type2.php:188
+#: ../parts/blogloop.php:166
+msgid "in"
+msgstr ""
+
+#: ../single.php:190
+msgid "&nbsp;&nbsp; Next Page"
+msgstr ""
+
+#: ../single.php:191
+msgid "Previous Page&nbsp;&nbsp;"
+msgstr ""
+
+#: ../taxonomy-filter.php:9
+msgid "Portfolio Archive"
+msgstr ""
+
+#: ../inc/contactus/contact2.php:19
+msgid "Text could not be empty..."
+msgstr ""
+
+#: ../inc/contactus/contact2.php:20
+msgid "Invalid email address..."
+msgstr ""
+
+#: ../inc/cpt/employee.php:13
+msgid "Employee"
+msgstr ""
+
+#: ../inc/cpt/employee.php:16 ../inc/cpt/employee.php:86
+#: ../inc/cpt/employee.php:91 ../inc/cpt/employee.php:101
+msgid "employee"
+msgstr ""
+
+#: ../inc/cpt/employee.php:24
+msgid "Edit Employee"
+msgstr ""
+
+#: ../inc/cpt/employee.php:27
+msgid "New Employee"
+msgstr ""
+
+#: ../inc/cpt/employee.php:30
+msgid "View Employee"
+msgstr ""
+
+#: ../inc/cpt/employee.php:33
+msgid "Search Employee"
+msgstr ""
+
+#: ../inc/cpt/employee.php:36
+msgid "No Employee Found"
+msgstr ""
+
+#: ../inc/cpt/employee.php:39
+msgid "No Employee Items Found In Trash"
+msgstr ""
+
+#: ../inc/cpt/employee.php:107
+#, php-format
+msgid "Employee Updated. <a href=\"%s\">View FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/employee.php:110 ../inc/cpt/faq.php:110
+#: ../inc/cpt/portfolio.php:114
+msgid "Custom Field Updated."
+msgstr ""
+
+#: ../inc/cpt/employee.php:113 ../inc/cpt/faq.php:113
+#: ../inc/cpt/portfolio.php:117
+msgid "Custom Field Deleted."
+msgstr ""
+
+#: ../inc/cpt/employee.php:116
+msgid "Employee Updated."
+msgstr ""
+
+#: ../inc/cpt/employee.php:119
+#, php-format
+msgid "Employee Restored To Revision From %s"
+msgstr ""
+
+#: ../inc/cpt/employee.php:122
+#, php-format
+msgid "Employee Published. <a href=\"%s\">View FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/employee.php:125
+msgid "Employee Saved."
+msgstr ""
+
+#: ../inc/cpt/employee.php:128
+#, php-format
+msgid "Employee Submitted. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/employee.php:131
+#, php-format
+msgid ""
+"Employee Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/employee.php:131 ../inc/cpt/faq.php:131
+#: ../inc/cpt/portfolio.php:135
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../inc/cpt/employee.php:134
+#, php-format
+msgid ""
+"Employee Draft Updated. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/employee.php:155
+msgid "Enter Employee name"
+msgstr ""
+
+#: ../inc/cpt/faq.php:13 ../inc/cpt/faq.php:16
+msgid "FAQ"
+msgstr ""
+
+#: ../inc/cpt/faq.php:24
+msgid "Edit FAQ Item"
+msgstr ""
+
+#: ../inc/cpt/faq.php:27
+msgid "New FAQ Item"
+msgstr ""
+
+#: ../inc/cpt/faq.php:30
+msgid "View FAQ"
+msgstr ""
+
+#: ../inc/cpt/faq.php:33
+msgid "Search FAQ"
+msgstr ""
+
+#: ../inc/cpt/faq.php:36
+msgid "No FAQ Items Found"
+msgstr ""
+
+#: ../inc/cpt/faq.php:39
+msgid "No FAQ Items Found In Trash"
+msgstr ""
+
+#: ../inc/cpt/faq.php:86 ../inc/cpt/faq.php:91 ../inc/cpt/faq.php:101
+#: ../inc/cpt/faq.php:147
+msgid "faq"
+msgstr ""
+
+#: ../inc/cpt/faq.php:107
+#, php-format
+msgid "FAQ Updated. <a href=\"%s\">View FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/faq.php:116
+msgid "FAQ Updated."
+msgstr ""
+
+#: ../inc/cpt/faq.php:119
+#, php-format
+msgid "FAQ Restored To Revision From %s"
+msgstr ""
+
+#: ../inc/cpt/faq.php:122
+#, php-format
+msgid "FAQ Published. <a href=\"%s\">View FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/faq.php:125
+msgid "FAQ Saved."
+msgstr ""
+
+#: ../inc/cpt/faq.php:128
+#, php-format
+msgid "FAQ Submitted. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/faq.php:131
+#, php-format
+msgid ""
+"FAQ Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/faq.php:134
+#, php-format
+msgid "FAQ Draft Updated. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: ../inc/cpt/faq.php:144 ../inc/cpt/portfolio.php:148
+msgid "filter"
+msgstr ""
+
+#: ../inc/cpt/faq.php:152 ../inc/cpt/faq.php:153 ../inc/cpt/portfolio.php:156
+#: ../inc/cpt/portfolio.php:157
+msgid "Categories"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:13 ../inc/cpt/portfolio.php:16
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:22 ../inc/cpt/portfolio.php:95
+#: ../inc/cpt/portfolio.php:105 ../inc/cpt/portfolio.php:151
+msgid "portfolio"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:29
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:32
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:35
+msgid "View Portfolio"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:38
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:41
+msgid "No Portfolio Items Found"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:44
+msgid "No Portfolio Items Found In Trash"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:111
+#, php-format
+msgid "Portfolio Updated. <a href=\"%s\">View portfolio</a>"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:120
+msgid "Portfolio Updated."
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:123
+#, php-format
+msgid "Portfolio Restored To Revision From %s"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:126
+#, php-format
+msgid "Portfolio Published. <a href=\"%s\">View Portfolio</a>"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:129
+msgid "Portfolio Saved."
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:132
+#, php-format
+msgid ""
+"Portfolio Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:135
+#, php-format
+msgid ""
+"Portfolio Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../inc/cpt/portfolio.php:138
+#, php-format
+msgid ""
+"Portfolio Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio</"
+"a>"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:12
+msgid "PageNavi Settings"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:13
+msgid "PageNavi"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:31
+msgid "Text For Number Of Pages"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:36
+msgid "The current page number."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:37
+#: ../inc/helpers/wp-pagenavi/admin.php:61
+#: ../inc/helpers/wp-pagenavi/admin.php:69
+msgid "The total number of pages."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:41
+msgid "Text For Current Page"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:45
+#: ../inc/helpers/wp-pagenavi/admin.php:53
+msgid "The page number."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:49
+msgid "Text For Page"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:57
+msgid "Text For First Page"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:65
+msgid "Text For Last Page"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:73
+msgid "Text For Previous Page"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:79
+msgid "Text For Next Page"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:85
+msgid "Text For Previous ..."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:91
+msgid "Text For Next ..."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:98
+msgid "Page Navigation Text"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:99
+msgid "Leaving a field blank will hide that part of the navigation."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:105
+msgid "Use pagenavi-css.css"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:111
+msgid "Page Navigation Style"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:114
+msgid "Normal"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:114
+msgid "Drop-down List"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:119
+msgid "Always Show Page Navigation"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:122
+msgid "Show navigation even if there's only one page."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:126
+msgid "Number Of Pages To Show"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:133
+msgid "Number Of Larger Page Numbers To Show"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:138
+msgid ""
+"Larger page numbers are in addition to the normal page numbers. They are "
+"useful when there are many pages of posts."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:139
+msgid ""
+"For example, WP-PageNavi will display: Pages 1, 2, 3, 4, 5, 10, 20, 30, 40, "
+"50."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:140
+msgid "Enter 0 to disable."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:144
+msgid "Show Larger Page Numbers In Multiples Of"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:149
+msgid "For example, if mutiple is 5, it will show: 5, 10, 15, 20, 25"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/admin.php:154
+msgid "Page Navigation Options"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/wp-pagenavi.php:20
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/wp-pagenavi.php:23
+msgid "&laquo; First"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/wp-pagenavi.php:24
+msgid "Last &raquo;"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/wp-pagenavi.php:25
+msgid "&laquo;"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/wp-pagenavi.php:26
+msgid "&raquo;"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/wp-pagenavi.php:27
+#: ../inc/helpers/wp-pagenavi/wp-pagenavi.php:28
+msgid "..."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/scb/AdminPage.php:172
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/scb/AdminPage.php:185
+#: ../inc/helpers/wp-pagenavi/scb/AdminPage.php:196
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/helpers/wp-pagenavi/scb/AdminPage.php:346
+msgid "Settings"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:31
+msgid "A Section added by hook"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:32
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:97
+msgid ""
+"<p>webnus theme options. all about theme option which can be edited is here."
+"</p>"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:124 ../inc/nc-options/nc-options.php:127
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:195
+msgid "General"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:196
+msgid "<p class=\"description\">Setup the general options of theme.</p>"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:201
+msgid "One Click Import Data"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:208
+msgid "Layout"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:216
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:217
+msgid "An ico image that will represent your website's favicon (16px x 16px)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:222
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:223
+msgid "Icon for Apple iPhone (57px x 57px)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:228
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:229
+msgid "Icon for Apple iPad (72px x 72px)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:234
+msgid "Tracking Code"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:235
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:236
+msgid "Google Analytics"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:241
+msgid "Allow Comments On Pages"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:242
+msgid "Allow comments on regular pages."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:248
+msgid "Space Before &lt;/heade&gt;"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:249
+msgid "Add code before the &lt;/head&gt; tag."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:254
+msgid "Space Before &lt;/body&gt;"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:255
+msgid "Add code before the &lt;/body&gt; tag."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:260
+msgid "Slogan"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:261
+msgid "Slogan Text"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:266 ../inc/nc-options/nc-options.php:520
+msgid "Contact Information"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:281
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:286
+msgid "Google Map Embed Source"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:291
+msgid "Admin Login Logo"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:292
+msgid "Please choose an image file for admin login page logo."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:299
+msgid "Header Options"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:304 ../inc/nc-options/nc-options.php:1709
+#: ../inc/nc-options/nc-options.php:1716
+msgid "Logo"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:305 ../inc/nc-options/nc-options.php:311
+msgid ""
+"Please choose an image file for your logo.<br/> For Retina displays please "
+"add Image in large size and set custom width."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:310
+msgid "Logo for HalfDark Page"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:317
+msgid "Logo Width"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:324
+msgid "Topbar Options"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:329
+msgid "Show/Hide TopBar"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:330 ../inc/nc-options/nc-options.php:387
+#: ../inc/nc-options/nc-options.php:394 ../inc/nc-options/nc-options.php:401
+#: ../inc/nc-options/nc-options.php:408 ../inc/nc-options/nc-options.php:415
+#: ../inc/nc-options/nc-options.php:422 ../inc/nc-options/nc-options.php:429
+#: ../inc/nc-options/nc-options.php:436 ../inc/nc-options/nc-options.php:443
+#: ../inc/nc-options/nc-options.php:450 ../inc/nc-options/nc-options.php:457
+#: ../inc/nc-options/nc-options.php:464 ../inc/nc-options/nc-options.php:471
+#: ../inc/nc-options/nc-options.php:478 ../inc/nc-options/nc-options.php:485
+#: ../inc/nc-options/nc-options.php:492 ../inc/nc-options/nc-options.php:499
+#: ../inc/nc-options/nc-options.php:1693 ../inc/nc-options/nc-options.php:1817
+#: ../inc/nc-options/nc-options.php:1830 ../inc/nc-options/nc-options.php:1843
+msgid "Hide"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:330 ../inc/nc-options/nc-options.php:387
+#: ../inc/nc-options/nc-options.php:394 ../inc/nc-options/nc-options.php:401
+#: ../inc/nc-options/nc-options.php:408 ../inc/nc-options/nc-options.php:415
+#: ../inc/nc-options/nc-options.php:422 ../inc/nc-options/nc-options.php:429
+#: ../inc/nc-options/nc-options.php:436 ../inc/nc-options/nc-options.php:443
+#: ../inc/nc-options/nc-options.php:450 ../inc/nc-options/nc-options.php:457
+#: ../inc/nc-options/nc-options.php:464 ../inc/nc-options/nc-options.php:471
+#: ../inc/nc-options/nc-options.php:478 ../inc/nc-options/nc-options.php:485
+#: ../inc/nc-options/nc-options.php:492 ../inc/nc-options/nc-options.php:499
+#: ../inc/nc-options/nc-options.php:1693 ../inc/nc-options/nc-options.php:1817
+#: ../inc/nc-options/nc-options.php:1830 ../inc/nc-options/nc-options.php:1843
+msgid "Show"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:336
+msgid "Topbar Left side"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:337
+msgid ""
+"Select Topbar left side content, you can select one of Topbar Menu or "
+"Contact Information or Social Icons"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:344
+msgid "Topbar Right side"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:345
+msgid ""
+"Select Topbar right side content, you can select one of Topbar Menu/Contact "
+"Information/Social Icons"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:353
+msgid "Header Phone Number"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:359
+msgid "Header Email Address"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:365
+msgid "Topbar Left side tag line"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:366 ../inc/nc-options/nc-options.php:373
+msgid "Insert Any Headline Or Link You Want Here"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:372
+msgid "Topbar Right side tag line"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:380
+msgid "TopBar Social Icons"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:386
+msgid "Show/Hide Facebook Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:393
+msgid "Show/Hide Twitter Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:400
+msgid "Show/Hide Dribbble Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:407
+msgid "Show/Hide Pinterest Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:414
+msgid "Show/Hide Vimeo Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:421
+msgid "Show/Hide Youtube Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:428
+msgid "Show/Hide Google+ Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:435
+msgid "Show/Hide LinkedIn Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:442
+msgid "Show/Hide RSS Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:449
+msgid "Show/Hide Instagram Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:456
+msgid "Show/Hide Flickr Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:463
+msgid "Show/Hide Reddit Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:470
+msgid "Show/Hide Delicious Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:477
+msgid "Show/Hide LastFM Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:484
+msgid "Show/Hide Tumblr Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:491
+msgid "Show/Hide Skype Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:498
+msgid "Show/Hide Picassa Icon"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:511
+msgid "Enable/Disable Sticky Menu"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:512 ../inc/nc-options/nc-options.php:541
+#: ../inc/nc-options/nc-options.php:1495 ../inc/nc-options/nc-options.php:1518
+#: ../inc/nc-options/nc-options.php:1525
+msgid "Disable"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:512 ../inc/nc-options/nc-options.php:541
+#: ../inc/nc-options/nc-options.php:1495 ../inc/nc-options/nc-options.php:1518
+#: ../inc/nc-options/nc-options.php:1525
+msgid "Enable"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:518
+msgid "Logo Right side"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:519
+msgid ""
+"Select Content of logo right side. you can select Searchbox or Contact "
+"Information"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:520 ../inc/nc-options/nc-options.php:593
+msgid "None"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:520
+msgid "Search Box"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:526
+msgid "Select Menu Layout"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:527
+msgid "Menu Layout 1"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:528
+msgid "Menu Layout 2"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:529
+msgid "Menu Layout 3"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:530
+msgid "Menu Layout 4"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:531
+msgid "Menu Layout 5"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:532
+msgid "Menu Layout 6"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:540
+msgid "Enable/Disable Search in Menu Type 1,6"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:554
+msgid "Background"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:565
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:566
+msgid "Please choose an image or insert an image url to use for the backgroud."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:571
+msgid "100% Background Image"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:572
+msgid ""
+"Have background image always at 100% in width and height and scale according "
+"to the browser size"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:578
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:579
+msgid "repeat"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:579
+msgid "repeat-x"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:579
+msgid "repeat-y"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:579
+msgid "no-repeat"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:585
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:586
+msgid "Pick a background color"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:592
+msgid "Background Pattern"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:594
+msgid "Default BG"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:594
+msgid "Gray Jean"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:594
+msgid "Light Wool"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:595
+msgid "Subtle Freckles"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:596
+msgid "Subtle Freckles 2"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:597
+msgid "Green Fibers"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:598
+msgid "Dust"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:611
+msgid "Typography"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:616
+msgid "Select Body Font Family"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:617
+msgid "Select a font family for body text"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:623
+msgid "Select Headings Font"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:624
+msgid "Select a font family for headings"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:630
+msgid "Select Paragraph Font"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:631
+msgid "Select a font family for paragraphs, &lt;P&gt; Tags "
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:642
+msgid "Body Font Size (px)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:648
+msgid "Top Nav Font Size (px)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:655
+msgid "Font Size For &lt;H1&gt; Tag"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:661
+msgid "Font Size For &lt;H2&gt; Tag"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:667
+msgid "Font Size For &lt;H3&gt; Tag"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:673
+msgid "Font Size For &lt;H4&gt; Tag"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:679
+msgid "Font Size For &lt;H5&gt; Tag"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:685
+msgid "Font Size For &lt;H6&gt; Tag"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:695
+msgid "Styling Options"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1362
+msgid "Blog Options"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1363
+msgid "<p class=\"description\">Customize Blogs</p>"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1369
+msgid "BlogTemplate"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1370
+msgid "Blog 1(Full Width Image)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1370
+msgid "Blog 2(Thmbnail Image)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1370
+msgid "Timeline"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1376
+msgid "Blog Page Title"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1382
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1383 ../inc/nc-options/nc-options.php:1390
+#: ../inc/nc-options/nc-options.php:1397 ../inc/nc-options/nc-options.php:1404
+#: ../inc/nc-options/nc-options.php:1411
+msgid "Off"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1383 ../inc/nc-options/nc-options.php:1390
+#: ../inc/nc-options/nc-options.php:1397 ../inc/nc-options/nc-options.php:1404
+#: ../inc/nc-options/nc-options.php:1411
+msgid "On"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1389
+msgid "Featured Image on Single Post Page"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1396
+msgid "Post Title"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1403
+msgid "Author Box"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1410
+msgid "Meta Data"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1417
+msgid "Excerpt Or Full Blog Content"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1418
+msgid "Show excerpt or Full Blog Content On Blog Pages"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1419
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1419
+msgid "&nbsp;&nbsp;&nbsp;Full&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1425
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1431
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1437
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1444
+msgid "Single Post Sidebar Position"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1463
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1468
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1494
+msgid "Enable/Disable Portfolio Isotope Effect"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1502
+msgid "Portfolio Image Width in(px)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1509
+msgid "Portfolio Image Height in(px)"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1517
+msgid "Enable/Disable Recent Works In Single Portfolio Item"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1524
+msgid "Enable/Disable LikeBox In Single Portfolio Item"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1536
+msgid "Social Networks"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1537
+msgid "<p class=\"description\">Customize The Social Network Accounts</p>"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1542
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1543
+msgid "Example: http://twitter.com/mytwitterid"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1544
+msgid "Enter the Twitter URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1550
+msgid "Facebook Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1551
+msgid "Example: http://facebook.com/myfacebook"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1552
+msgid "Enter the Facebook ID"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1558
+msgid "Youtube Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1559
+msgid "Example: http://youtube.com/account"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1560
+msgid "Enter the Youtube Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1566
+msgid "Linkedin Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1567
+msgid "Example: http://linkedin/linkedinid"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1568
+msgid "Enter the Linkedin Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1574
+msgid "Dribbble Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1575
+msgid "Example: http://dribbble.com/dribbbleid"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1576
+msgid "Enter the Dribbble Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1582
+msgid "Pinterest Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1583
+msgid "Example: http://pinterest/pinterestid"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1584
+msgid "Enter the Pinterest Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1590
+msgid "Vimeo Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1591
+msgid "Example: http://vimeo.com/"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1592
+msgid "Enter the viemo Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1598
+msgid "Google+ Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1599
+msgid "Example: http://plus.google.com/"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1600
+msgid "Enter the google+ Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1606
+msgid "RSS Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1607
+msgid "Example: http://exaple.com/rss"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1608
+msgid "Enter the RSS Link"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1614
+msgid "Instagram URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1615
+msgid "Instagram Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1616
+msgid "Enter the Instagram Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1622
+msgid "Flickr URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1623
+msgid "Flickr Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1624
+msgid "Enter the Flickr Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1630
+msgid "Reddit URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1631
+msgid "Reddit Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1632
+msgid "Enter the Reddit Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1638
+msgid "Lastfm URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1639
+msgid "Lastfm Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1640
+msgid "Enter the Lastfm Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1647
+msgid "Delicious URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1648
+msgid "Delicious Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1649
+msgid "Enter the Delicious Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1655
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1656
+msgid "Tumblr Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1657
+msgid "Enter the Tumblr Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1663
+msgid "Skype URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1664
+msgid "Skype Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1665
+msgid "Enter the Skype Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1672
+msgid "Picassa URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1673
+msgid "Picassa Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1674
+msgid "Enter the Picassa Link URL"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1685
+msgid "Footer Options"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1686
+msgid "<p class=\"description\">Customize Footer</p>"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1692
+msgid "Footer Bottom Show/Hide"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1701
+msgid "Footer Color Style"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1702
+msgid "Dark"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1702
+msgid "Light"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1708
+msgid "Footer Bottom Left Content"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1709 ../inc/nc-options/nc-options.php:1716
+msgid "Menu"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1709 ../inc/nc-options/nc-options.php:1716
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1715
+msgid "Footer Bottom Right Content"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1724
+msgid "Footer Logo"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1725
+msgid "Please choose an image file for footer logo."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1730
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1736
+msgid "Footer Type"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1737
+msgid "Footer Layout 1"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1738
+msgid "Footer Layout 2"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1739
+msgid "Footer Layout 3"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1740
+msgid "Footer Layout 4"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1741
+msgid "Footer Layout 5"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1754
+msgid "404 Page"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1755
+msgid "<p class=\"description\">Customize Default 404 Page(Page Not Found)</p>"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1760
+msgid "Text To Display"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1784
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1790
+msgid "Paste your css code."
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1791
+msgid "Do not include tags or any html tag in this field<br />"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1796
+msgid "CSS Code"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1810
+msgid "Woocommerce"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1816
+msgid "Shop title Show/Hide"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1823
+msgid "Shop page title"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1829
+msgid "Product page title Show/Hide"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1836
+msgid "Product page title"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1842
+msgid "Show/Hide Sidebar"
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1869
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1870
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1871
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1873
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../inc/nc-options/nc-options.php:1880
+msgid "Theme Information"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:51
+#: ../inc/nc-options/options/noptions.php:53
+msgid "Options"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:65
+msgid ""
+"<span id=\"footer-thankyou\">Webnus web development group. Visit us on <a "
+"href=\"http://themeforest.net/user/WEBNUS/\" target=\"_blank\">Themeforest</"
+"a>  </span>"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:68
+msgid " "
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:254
+#: ../inc/nc-options/options/noptions.php:255
+#: ../inc/nc-options/options/noptions.php:688
+msgid "Import / Export"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:281
+#: ../inc/nc-options/options/noptions.php:282
+#: ../inc/nc-options/options/noptions.php:707
+#: ../inc/nc-options/options/noptions.php:789
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:337
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:654
+#: ../inc/nc-options/options/noptions.php:814
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:660
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:662
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:666
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:667
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:669
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:725
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:727
+msgid "Import Options"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:735
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:748
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:758
+msgid "Import"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:758
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:761
+msgid "Export Options"
+msgstr ""
+
+#: ../inc/nc-options/options/noptions.php:763
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: ../inc/nc-options/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: ../inc/nc-options/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: ../inc/nc-options/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+
+#: ../inc/nc-options/options/fields/multi_text/field_multi_text.php:39
+#: ../inc/nc-options/options/fields/multi_text/field_multi_text.php:46
+#: ../inc/nc-options/options/fields/multi_text/field_multi_text.php:50
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:206
+msgid "Remove"
+msgstr ""
+
+#: ../inc/nc-options/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: ../inc/nc-options/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: ../inc/nc-options/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: ../inc/nc-options/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../inc/nc-options/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../inc/nc-options/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../inc/nc-options/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../inc/nc-options/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../inc/nc-options/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../inc/nc-options/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../inc/nc-options/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:164
+#: ../inc/plugins/plugin-activator/init.php:140
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:165
+#: ../inc/plugins/plugin-activator/init.php:141
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:166
+#: ../inc/plugins/plugin-activator/init.php:142
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:178
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:490
+#: ../inc/plugins/plugin-activator/init.php:154
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:179
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1846
+#: ../inc/plugins/plugin-activator/init.php:155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:517
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1299
+#: ../inc/visualcomposer/16-distance.php:12
+#: ../inc/visualcomposer/3-alert.php:12
+msgid "Type"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1956
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1956
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/init.php:143
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/plugins/plugin-activator/init.php:156
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:79
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:83
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:124
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:133
+#: ../inc/visualcomposer/2-button.php:58
+msgid "URL"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:140
+msgid "Navigation Label"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:146
+msgid "Title Attribute"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:153
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:170
+msgid "Description"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:172
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:180
+#: ../inc/visualcomposer/10-recentworks.php:34
+#: ../inc/visualcomposer/15-ourclients.php:39
+#: ../inc/visualcomposer/2-button.php:72
+msgid "Icon"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:193
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../inc/plugins/sweet-custom-menu/edit_custom_walker.php:207
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/parsers.php:42
+#: ../inc/plugins/wordpress-importer/parsers.php:72
+#: ../inc/plugins/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/parsers.php:84
+#: ../inc/plugins/wordpress-importer/parsers.php:89
+#: ../inc/plugins/wordpress-importer/parsers.php:279
+#: ../inc/plugins/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:135
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:144
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:195
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:199
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:208
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:136
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:179
+msgid "All done."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:179
+msgid "Have fun!"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:180
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:200
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:216
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:241
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:267
+msgid "Assign Authors"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:268
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:270
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:280
+msgid "Import Attachments"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:283
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:300
+msgid "Import author:"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:311
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:314
+msgid "as a new user:"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:322
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:324
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:325
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:375
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:426
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:466
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:512
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:653
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:538
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:560
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:619
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:784
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:791
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:854
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:867
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:911
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:917
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:924
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:929
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:935
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:1034
+msgid "Import WordPress"
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:1041
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:1056
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:1057
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../inc/plugins/wordpress-importer/wordpress-importer.php:1131
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../inc/shortcodes/related-works.php:13
+msgid "Related Works"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:12
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:14
+msgid "Appears in left side in the blog page."
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:22
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:24
+msgid "Appears in right side in the blog page."
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:40
+msgid "Footer Section 1"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:42
+msgid "Appears in footer section 1"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:50
+msgid "Footer Section 2"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:52
+msgid "Appears in footer section 2"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:61
+msgid "Footer Section 3"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:63
+msgid "Appears in footer section 3"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:71
+msgid "Footer Section 4"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:73
+msgid "Appears in footer section 4"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:83
+msgid "WooCommerce Page Sidebar"
+msgstr ""
+
+#: ../inc/sidebars/general-sidebars.php:85
+msgid "Product page widget area"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:8
+#: ../inc/visualcomposer/10-recentworks.php:30
+#: ../inc/visualcomposer/11-latestblogs.php:8
+#: ../inc/visualcomposer/12-pricingtable.php:82
+#: ../inc/visualcomposer/14-faq.php:40
+#: ../inc/visualcomposer/15-ourclients.php:34
+#: ../inc/visualcomposer/16-distance.php:7 ../inc/visualcomposer/17-link.php:7
+#: ../inc/visualcomposer/18-boxlink.php:7
+#: ../inc/visualcomposer/19-paragraph.php:18
+#: ../inc/visualcomposer/2-button.php:7
+#: ../inc/visualcomposer/20-subtitle.php:18
+#: ../inc/visualcomposer/21-subtitle2.php:18
+#: ../inc/visualcomposer/21-subtitle2.php:39
+#: ../inc/visualcomposer/22-bigtitle1.php:18
+#: ../inc/visualcomposer/23-bigtitle2.php:18
+#: ../inc/visualcomposer/24-ourteam.php:47
+#: ../inc/visualcomposer/25-callout.php:41
+#: ../inc/visualcomposer/26-testimonial.php:41
+#: ../inc/visualcomposer/27-doublepromo.php:62
+#: ../inc/visualcomposer/28-quote.php:44 ../inc/visualcomposer/3-alert.php:7
+#: ../inc/visualcomposer/30-icon.php:9
+#: ../inc/visualcomposer/32-process-item.php:8
+#: ../inc/visualcomposer/33-employee.php:53
+#: ../inc/visualcomposer/4-tooltip.php:7
+#: ../inc/visualcomposer/5-highlight.php:7
+#: ../inc/visualcomposer/6-dropcap.php:7 ../inc/visualcomposer/7-list.php:7
+#: ../inc/visualcomposer/8-clear.php:9 ../inc/visualcomposer/9-line.php:7
+msgid "Webnus Shortcodes"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:12
+msgid "IconBox Type"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:24
+#: ../inc/visualcomposer/1-iconbox.php:63 ../inc/visualcomposer/30-icon.php:17
+msgid "Select Iconbox Type"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:28
+#: ../inc/visualcomposer/10-recentworks.php:41
+#: ../inc/visualcomposer/15-ourclients.php:46
+#: ../inc/visualcomposer/25-callout.php:14
+#: ../inc/visualcomposer/27-doublepromo.php:14
+#: ../inc/visualcomposer/28-quote.php:14
+msgid "Title"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:31
+#: ../inc/visualcomposer/1-iconbox.php:78 ../inc/visualcomposer/30-icon.php:24
+msgid "Icon size in px format, Example: 16px"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:36
+msgid "IconBox Content"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:39
+msgid "IconBox Content Goes Here"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:44
+msgid "IconBox Link URL"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:47
+msgid "IconBox Link URL (http://example.com)"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:52
+#: ../inc/visualcomposer/1-iconbox.php:55
+msgid "IconBox Link Text"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:60
+msgid "IconBox Icon"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:67
+msgid "IconBox Image Icon"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:70
+msgid "Select Iconbox Image"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:75
+msgid "Icon Size(leave blank for default size)"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:83
+msgid "Icon color(leave bank for default color)"
+msgstr ""
+
+#: ../inc/visualcomposer/1-iconbox.php:86 ../inc/visualcomposer/30-icon.php:32
+msgid "Select icon color"
+msgstr ""
+
+#: ../inc/visualcomposer/10-recentworks.php:37
+msgid "RecentWorks Icon"
+msgstr ""
+
+#: ../inc/visualcomposer/10-recentworks.php:44
+msgid "RecentWorks title"
+msgstr ""
+
+#: ../inc/visualcomposer/10-recentworks.php:48
+#: ../inc/visualcomposer/15-ourclients.php:53
+#: ../inc/visualcomposer/26-testimonial.php:28
+msgid "Subtitle"
+msgstr ""
+
+#: ../inc/visualcomposer/10-recentworks.php:51
+msgid "Recent Works Subtitle"
+msgstr ""
+
+#: ../inc/visualcomposer/10-recentworks.php:55
+msgid "Works Selection"
+msgstr ""
+
+#: ../inc/visualcomposer/10-recentworks.php:58
+msgid "Select and filter From Works list."
+msgstr ""
+
+#: ../inc/visualcomposer/11-latestblogs.php:12
+msgid "LatestBlog Title"
+msgstr ""
+
+#: ../inc/visualcomposer/11-latestblogs.php:15
+msgid "Enter the LatestBlog title"
+msgstr ""
+
+#: ../inc/visualcomposer/12-pricingtable.php:86
+msgid "Pricing table ID"
+msgstr ""
+
+#: ../inc/visualcomposer/12-pricingtable.php:89
+msgid "Select the pricing table ID"
+msgstr ""
+
+#: ../inc/visualcomposer/14-faq.php:45
+msgid "Select FAQ"
+msgstr ""
+
+#: ../inc/visualcomposer/14-faq.php:48
+msgid "Select FAQ to display"
+msgstr ""
+
+#: ../inc/visualcomposer/15-ourclients.php:42
+msgid "OurClient Top Icon"
+msgstr ""
+
+#: ../inc/visualcomposer/15-ourclients.php:49
+msgid "OurClients Title"
+msgstr ""
+
+#: ../inc/visualcomposer/15-ourclients.php:56
+msgid "OurClients Subtitle"
+msgstr ""
+
+#: ../inc/visualcomposer/15-ourclients.php:60
+msgid "Clients Images"
+msgstr ""
+
+#: ../inc/visualcomposer/15-ourclients.php:63
+msgid "OurClients Images"
+msgstr ""
+
+#: ../inc/visualcomposer/16-distance.php:21
+msgid "Distance Type"
+msgstr ""
+
+#: ../inc/visualcomposer/17-link.php:12
+#: ../inc/visualcomposer/18-boxlink.php:12
+#: ../inc/visualcomposer/27-doublepromo.php:28
+msgid "Link URL"
+msgstr ""
+
+#: ../inc/visualcomposer/17-link.php:15
+#: ../inc/visualcomposer/18-boxlink.php:15
+msgid "Link URL, Example: http://domain.com"
+msgstr ""
+
+#: ../inc/visualcomposer/17-link.php:20
+#: ../inc/visualcomposer/18-boxlink.php:20
+#: ../inc/visualcomposer/27-doublepromo.php:21
+msgid "Link Text"
+msgstr ""
+
+#: ../inc/visualcomposer/17-link.php:23
+#: ../inc/visualcomposer/18-boxlink.php:23
+msgid "Link Text (Content)"
+msgstr ""
+
+#: ../inc/visualcomposer/19-paragraph.php:12
+msgid "Paragraph"
+msgstr ""
+
+#: ../inc/visualcomposer/19-paragraph.php:15
+msgid "Paragraph, Enter the <p> tag content"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:12
+msgid "Color"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:27
+msgid "Button Color"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:31
+msgid "Size"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:39
+msgid "Button Size"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:43
+msgid "Target"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:52
+msgid "Button URL Target"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:61
+msgid "Button URL Link"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:65
+msgid "Bordered?"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:68
+msgid "Is button bordered?"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:75
+msgid "Select Button Icon"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:79
+#: ../inc/visualcomposer/26-testimonial.php:35
+#: ../inc/visualcomposer/27-doublepromo.php:56
+#: ../inc/visualcomposer/28-quote.php:38
+msgid "Content"
+msgstr ""
+
+#: ../inc/visualcomposer/2-button.php:82
+msgid "Button Text Content"
+msgstr ""
+
+#: ../inc/visualcomposer/20-subtitle.php:12
+#: ../inc/visualcomposer/21-subtitle2.php:12
+#: ../inc/visualcomposer/21-subtitle2.php:33
+msgid "Subtitle Content"
+msgstr ""
+
+#: ../inc/visualcomposer/20-subtitle.php:15
+#: ../inc/visualcomposer/21-subtitle2.php:15
+#: ../inc/visualcomposer/21-subtitle2.php:36
+msgid "Enter the Subtitle content"
+msgstr ""
+
+#: ../inc/visualcomposer/22-bigtitle1.php:12
+#: ../inc/visualcomposer/23-bigtitle2.php:12
+msgid "BigTitle Content"
+msgstr ""
+
+#: ../inc/visualcomposer/22-bigtitle1.php:15
+#: ../inc/visualcomposer/23-bigtitle2.php:15
+msgid "Enter the Bigtitle content"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:13
+msgid "Team Image"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:16
+msgid "Team member image"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:20
+msgid "Team Memeber Name"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:23
+msgid "Team member name"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:27
+msgid "Team Memeber Title"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:30
+msgid "Team member title"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:34
+msgid "Team Memeber description text"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:37
+msgid "Team member description text"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:41
+msgid "Ourteam Content"
+msgstr ""
+
+#: ../inc/visualcomposer/24-ourteam.php:44
+msgid "Enter the Ourteam content, [icon] Available"
+msgstr ""
+
+#: ../inc/visualcomposer/25-callout.php:17
+msgid "Enter the Callout title"
+msgstr ""
+
+#: ../inc/visualcomposer/25-callout.php:21
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/visualcomposer/25-callout.php:24
+msgid "Callout Button text"
+msgstr ""
+
+#: ../inc/visualcomposer/25-callout.php:28
+msgid "Button Link"
+msgstr ""
+
+#: ../inc/visualcomposer/25-callout.php:31
+msgid "Button Link URL"
+msgstr ""
+
+#: ../inc/visualcomposer/25-callout.php:35
+msgid "Content Text"
+msgstr ""
+
+#: ../inc/visualcomposer/25-callout.php:38
+msgid "Enter the Callout content text"
+msgstr ""
+
+#: ../inc/visualcomposer/26-testimonial.php:14
+#: ../inc/visualcomposer/28-quote.php:21
+msgid "Name"
+msgstr ""
+
+#: ../inc/visualcomposer/26-testimonial.php:17
+msgid "Enter the Testimonial Name"
+msgstr ""
+
+#: ../inc/visualcomposer/26-testimonial.php:21
+#: ../inc/visualcomposer/27-doublepromo.php:35
+msgid "Image"
+msgstr ""
+
+#: ../inc/visualcomposer/26-testimonial.php:24
+msgid "Testimonial Image"
+msgstr ""
+
+#: ../inc/visualcomposer/26-testimonial.php:31
+msgid "Testimonial Subtitle"
+msgstr ""
+
+#: ../inc/visualcomposer/26-testimonial.php:38
+msgid "Enter the Testimonial content text"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:17
+#: ../inc/visualcomposer/28-quote.php:17
+msgid "Enter the Title"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:24
+msgid "Enter the link text"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:31
+msgid "Enter the link url Example: http://domain.com"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:38
+msgid "Enter the image url"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:42
+msgid "Image alt"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:45
+msgid "Enter the image alt Text"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:49
+msgid "Is Last Column?"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:52
+msgid "Is this second promobox?"
+msgstr ""
+
+#: ../inc/visualcomposer/27-doublepromo.php:59
+msgid "Enter the Doublepromo content text"
+msgstr ""
+
+#: ../inc/visualcomposer/28-quote.php:24
+msgid "Enter the Name"
+msgstr ""
+
+#: ../inc/visualcomposer/28-quote.php:28
+msgid "Name Subtitle"
+msgstr ""
+
+#: ../inc/visualcomposer/28-quote.php:31
+msgid "Enter the Name Subtitle"
+msgstr ""
+
+#: ../inc/visualcomposer/28-quote.php:41
+msgid "Enter the Quote of the Week content text"
+msgstr ""
+
+#: ../inc/visualcomposer/3-alert.php:21
+msgid "Alert Type"
+msgstr ""
+
+#: ../inc/visualcomposer/3-alert.php:25
+msgid "Has Close?"
+msgstr ""
+
+#: ../inc/visualcomposer/3-alert.php:28
+msgid "Has Close Button?"
+msgstr ""
+
+#: ../inc/visualcomposer/3-alert.php:32
+msgid "Alert Content"
+msgstr ""
+
+#: ../inc/visualcomposer/3-alert.php:35 ../inc/visualcomposer/4-tooltip.php:23
+msgid "Contet Goes Here"
+msgstr ""
+
+#: ../inc/visualcomposer/30-icon.php:14
+msgid "Icon Type"
+msgstr ""
+
+#: ../inc/visualcomposer/30-icon.php:21
+msgid "Icon Size"
+msgstr ""
+
+#: ../inc/visualcomposer/30-icon.php:29
+msgid "Icon color"
+msgstr ""
+
+#: ../inc/visualcomposer/30-icon.php:37
+msgid "Icon Link URL"
+msgstr ""
+
+#: ../inc/visualcomposer/30-icon.php:40
+msgid "Icon link URL http:// "
+msgstr ""
+
+#: ../inc/visualcomposer/30-icon.php:45
+msgid "Icon Link Class"
+msgstr ""
+
+#: ../inc/visualcomposer/30-icon.php:48
+msgid "Icon link Class "
+msgstr ""
+
+#: ../inc/visualcomposer/32-process-item.php:14
+msgid "Process  Title"
+msgstr ""
+
+#: ../inc/visualcomposer/32-process-item.php:17
+msgid "Process Item 1 Title "
+msgstr ""
+
+#: ../inc/visualcomposer/32-process-item.php:23
+msgid "Process  Text"
+msgstr ""
+
+#: ../inc/visualcomposer/32-process-item.php:26
+msgid "Process Item 1 Text "
+msgstr ""
+
+#: ../inc/visualcomposer/32-process-item.php:31
+msgid "Process  Icon"
+msgstr ""
+
+#: ../inc/visualcomposer/32-process-item.php:34
+msgid "Process Item 1 Icon "
+msgstr ""
+
+#: ../inc/visualcomposer/33-employee.php:37
+msgid "Columns"
+msgstr ""
+
+#: ../inc/visualcomposer/33-employee.php:40
+msgid "Employees column type"
+msgstr ""
+
+#: ../inc/visualcomposer/33-employee.php:44
+msgid "Employees"
+msgstr ""
+
+#: ../inc/visualcomposer/33-employee.php:47
+msgid "Select employees to add"
+msgstr ""
+
+#: ../inc/visualcomposer/4-tooltip.php:12
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../inc/visualcomposer/4-tooltip.php:15
+msgid "Tooltip text goes here"
+msgstr ""
+
+#: ../inc/visualcomposer/4-tooltip.php:20
+msgid "Tooltip Content"
+msgstr ""
+
+#: ../inc/visualcomposer/5-highlight.php:12
+msgid "Highlight Type"
+msgstr ""
+
+#: ../inc/visualcomposer/5-highlight.php:21
+msgid "Specify the Highlight type"
+msgstr ""
+
+#: ../inc/visualcomposer/5-highlight.php:26
+msgid "Highlight Content"
+msgstr ""
+
+#: ../inc/visualcomposer/5-highlight.php:29
+msgid "Specify the Highlight Text"
+msgstr ""
+
+#: ../inc/visualcomposer/6-dropcap.php:12
+msgid "Dropcap Type"
+msgstr ""
+
+#: ../inc/visualcomposer/6-dropcap.php:21
+msgid "Specify the Dropcap type"
+msgstr ""
+
+#: ../inc/visualcomposer/6-dropcap.php:26
+msgid "Dropcap Character"
+msgstr ""
+
+#: ../inc/visualcomposer/6-dropcap.php:29
+msgid "Specify the Dropcap Text"
+msgstr ""
+
+#: ../inc/visualcomposer/7-list.php:12
+msgid "List Type"
+msgstr ""
+
+#: ../inc/visualcomposer/7-list.php:26
+msgid "Select the List Items type"
+msgstr ""
+
+#: ../inc/visualcomposer/7-list.php:31
+msgid "Items"
+msgstr ""
+
+#: ../inc/visualcomposer/7-list.php:34
+msgid "Enter list items, you can use [li]SomeText[/li]"
+msgstr ""
+
+#: ../inc/visualcomposer/9-line.php:12
+msgid "Line Type"
+msgstr ""
+
+#: ../inc/visualcomposer/9-line.php:20
+msgid "Select the Line type"
+msgstr ""
+
+#: ../inc/widgets/contactform.php:69
+msgid "Your Name"
+msgstr ""
+
+#: ../inc/widgets/contactform.php:70
+msgid "Your Email Address"
+msgstr ""
+
+#: ../inc/widgets/contactform.php:71
+msgid "Your Message"
+msgstr ""
+
+#: ../inc/widgets/contactform.php:72
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: ../inc/widgets/contactform.php:95
+msgid "Somthing wrong!"
+msgstr ""
+
+#: ../parts/blogloop-none.php:2
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../parts/header2.php:48
+msgid "Search..."
+msgstr ""

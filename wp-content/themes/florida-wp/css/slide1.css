@@ -1,0 +1,55 @@
+/*----------------------------------
+
+	Theme Name: Florida WP
+	----------------------
+	
+	/* #Layer Slider Custom Styles
+	================================================== */
+			
+
+			.ls-slide h1, .ls-slide h2, .ls-slide h3, .ls-slide h4, .ls-slide h5, .ls-slide h6 { font-weight:300;}
+			.ls-slide h2 { font-weight:300; font-size:49px;}
+			.ls-slide h1 {text-transform:uppercase; font-size:73px; font-weight:100;}
+			.ls-slide h4 { border:1px solid #444; border-width:2px 0; padding:16px 0; margin:40px 0;}
+			.ls-slide h3 { color:#128abc; }
+			.ls-slide p { line-height:26px; }
+			.ls-slide a.button { padding:16px 40px; border:2px solid #fff; color:#ff; background:transparent; font-size:16px; text-shadow:none;}
+
+			.l1-s1s {
+				height: 110px;
+				color: white;
+				background: #0093d0;
+				opacity: .74;
+				filter: alpha(opacity=70);
+				width: 650px;
+				text-align: center;
+			}
+			
+			.l2-s1s {
+				color: white;
+				background: #0093d0;
+				opacity: .69;
+				filter: alpha(opacity=60); 
+				white-space: nowrap;
+				left:0;
+			}
+			h1.l2-s1s { background:#ff9900; opacity: .76; filter: alpha(opacity=70); }
+			
+			.l3-s1 {
+				width:440px;
+				padding-bottom:12px;
+				color: black;
+				background: white;
+				opacity: .59;
+				box-shadow: 0px 4px 10px -5px black;
+
+			}
+			
+			@media screen and (max-width: 1024px) {
+			
+			.ls-slide h1, .ls-slide h3 { left:0; margin-left:100px;}
+			.ls-slide a.button { padding:8px 20px; font-size:13px;}
+			
+			}
+			
+/* -------- end ----------- */
